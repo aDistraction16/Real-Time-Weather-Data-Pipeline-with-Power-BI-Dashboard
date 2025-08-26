@@ -42,7 +42,4 @@ This project demonstrates the automation of real-time weather data collection, s
 - Data visualization with Power BI
 
 ## Author
-- maverick Adrian L. Barroso
-
-## License
-This project is for educational and demonstration purposes.
+- Maverick Adrian L. Barroso
