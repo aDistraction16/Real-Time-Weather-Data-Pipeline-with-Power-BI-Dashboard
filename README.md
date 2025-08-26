@@ -36,6 +36,8 @@ This project demonstrates the automation of real-time weather data collection, s
 ### 3. Power BI Dashboard
 - Open `WeatherDashboard.pbix` in Power BI Desktop to view and analyze the weather data.
 
+![Dashboard Screenshot](dashboard.png)
+
 ## Project Highlights
 - API integration and data processing with Python
 - Automated data storage in SQL Server
